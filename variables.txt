@@ -1,0 +1,6 @@
+dhcp_subnet=192.168.1.0
+dhcp_netmask=255.255.255.0
+dhcp_range="192.168.1.230 192.168.1.250"
+dhcp_dns_server=192.168.1.2
+dhcp_domain_name=\"ziyotek.local\"
+dhcp_ip=192.168.1.6
